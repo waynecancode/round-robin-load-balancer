@@ -32,7 +32,7 @@ This project implements a **Round-Robin Load Balancer** using Python and Flask. 
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/waynecantc0de/round-robin-load-balancer.git
+git clone https://github.com/waynecancode/round-robin-load-balancer.git
 cd round-robin-load-balancer
 ```
 
